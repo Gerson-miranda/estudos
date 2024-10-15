@@ -1,0 +1,45 @@
+body{
+    background:linear-gradient(rgb(253, 0, 0),rgba(255, 145, 0, 0.849),rgba(0, 0, 0, 0.993));
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    color: hsl(33, 82%, 4%);
+}
+
+hr{
+    width: 60%;
+    height: 10px;
+    background: hsla(32, 98%, 46%, 0.877);
+    
+
+}
+
+p{
+    width: 60%;
+    margin: auto;
+    text-align: justify;
+
+}
+
+img{
+    height: 220px;
+    
+}
+
+.caixa{
+    width: fit-content;
+    margin: auto;
+
+}
+
+.vx{
+    width: 80%;
+    border-radius: 20px;
+    display: block;
+    margin: auto;
+}
+
